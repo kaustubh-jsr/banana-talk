@@ -12,7 +12,7 @@ function getTranslationUrl(text){
 }
 
 function errorHandler(error){
-    alert('Something went wron at the server. Try later.')
+    alert('Something went wrong at the server. Try later.')
 }
 
 
